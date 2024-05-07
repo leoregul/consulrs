@@ -21,7 +21,7 @@ http = "1.1.0"
 reqwest = { version = "0.12.4", default-features = false, features = [
     "rustls-tls",
 ] }
-rustify = "0.5.3"
+rustify = "0.6.0"
 rustify_derive = "0.5.3"
 serde = "1.0.200"
 serde_json = "1.0.116"
